@@ -1,4 +1,4 @@
-package ua.gudz.hw4.hw5;
+package ua.gudz.hw5;
 
 import java.util.Arrays;
 
