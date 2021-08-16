@@ -28,7 +28,6 @@ public class Task3 {
         }
 
     }
-
     public static void rotateArray(int[][] array) {
         int temp;
         for (int i = 1; i < array.length; i++) {

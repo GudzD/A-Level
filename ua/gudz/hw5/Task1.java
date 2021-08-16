@@ -26,7 +26,7 @@ public class Task1 {
             for (j = 0; j < array[i].length; j++) {
                 n++;
                 array[i][j] = n;
-                if (i % 2 != 0) array[i][j] = array[i][j] * -1;
+                if (i % 2 != 0) array[i][j] = -array[i][j];
             }
         }
     }
