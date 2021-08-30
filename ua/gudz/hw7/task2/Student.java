@@ -1,4 +1,4 @@
-package ua.gudz.hw7;
+package ua.gudz.hw7.task2;
 
 public class Student {
     String firstName;

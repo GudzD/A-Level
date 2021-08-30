@@ -1,4 +1,4 @@
-package ua.gudz.hw7;
+package ua.gudz.hw7.task2;
 
 public class Task2 {
     public static void main(String[] args) {
