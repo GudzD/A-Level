@@ -23,20 +23,15 @@ public class Task2 {
         System.out.println("Проверка на упорядоченность:  " + inOrder(numbers));
     }
 
-
     public static boolean inOrder(int[][] array) {
         int j;
         for (int[] ints : array) {
             for (j = 0; j < ints.length-1; j++) {
                 if (ints[j + 1] > ints[j]) {
                     return false;
-
                 }
-
             }
-
         }
-
         return true;
     }
 }
